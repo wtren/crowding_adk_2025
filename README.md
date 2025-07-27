@@ -1,1 +1,1 @@
-This is the collection of the data for the figures and the cafemol input files used in the manuscript of crowding simulation of AdK.
+This repository contains the datasets used for generating the figures, as well as the Cafemol input files, for the manuscript on crowding simulations of adenylate kinase (AdK).
