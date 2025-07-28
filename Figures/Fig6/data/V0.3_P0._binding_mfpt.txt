@@ -1,0 +1,10 @@
+   4.724      nan      nan
+  23.622      nan      nan
+  94.488      nan      nan
+ 188.976      nan      nan
+ 283.465      nan      nan
+ 472.441      nan      nan
+ 661.417      nan      nan
+ 850.394      nan      nan
+1133.858      nan      nan
+1511.811      nan      nan
