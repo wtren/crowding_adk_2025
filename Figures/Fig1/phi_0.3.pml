@@ -64,5 +64,5 @@ viewport 1024, 1024
 # draw 1024, 1024, 8
 
 ray 1600, 1600
-png x3.png, dpi=600
+png phi_0.3.png, dpi=600
 quit
