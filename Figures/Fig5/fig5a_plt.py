@@ -7,9 +7,6 @@ pmf2d = []
 R_lig_core = [[], []]
 R_nmp_core = [[], []]
 
-path1 = "/media/wtren/One Touch/ADK_crowding/jjlu_data/fig5/dilute_P0.3"
-path2 = "/media/wtren/One Touch/ADK_crowding/jjlu_data/fig5/V0.3_P0.3"
-
 for i in range(12):
     fn = f"./dilute/ake_-1.0_{i+1:d}.dist"
     data = np.loadtxt(fn, skiprows=1)
