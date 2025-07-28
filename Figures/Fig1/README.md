@@ -1,1 +1,1 @@
-the pdb files and pymol scripts to generate the figures in Figure 1
+The PDB files and PyMOL scripts used to generate the figures in Figure 1.
